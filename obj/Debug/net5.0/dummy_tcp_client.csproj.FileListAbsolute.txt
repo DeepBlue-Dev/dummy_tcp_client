@@ -1,0 +1,16 @@
+C:\Users\arthu\source\repos\dummy_tcp_client\bin\Debug\net5.0\dummy_tcp_client.exe
+C:\Users\arthu\source\repos\dummy_tcp_client\bin\Debug\net5.0\dummy_tcp_client.deps.json
+C:\Users\arthu\source\repos\dummy_tcp_client\bin\Debug\net5.0\dummy_tcp_client.runtimeconfig.json
+C:\Users\arthu\source\repos\dummy_tcp_client\bin\Debug\net5.0\dummy_tcp_client.runtimeconfig.dev.json
+C:\Users\arthu\source\repos\dummy_tcp_client\bin\Debug\net5.0\dummy_tcp_client.dll
+C:\Users\arthu\source\repos\dummy_tcp_client\bin\Debug\net5.0\ref\dummy_tcp_client.dll
+C:\Users\arthu\source\repos\dummy_tcp_client\bin\Debug\net5.0\dummy_tcp_client.pdb
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\dummy_tcp_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\dummy_tcp_client.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\dummy_tcp_client.AssemblyInfo.cs
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\dummy_tcp_client.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\dummy_tcp_client.dll
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\ref\dummy_tcp_client.dll
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\dummy_tcp_client.pdb
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\dummy_tcp_client.genruntimeconfig.cache
+C:\Users\arthu\source\repos\dummy_tcp_client\obj\Debug\net5.0\dummy_tcp_client.csprojAssemblyReference.cache
